@@ -1,7 +1,7 @@
 # motifpizza
 Screen tf motif within provided regions.
 
-## requirement and installation
+## Requirement and installation
 
 ## Usage
 
