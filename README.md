@@ -11,7 +11,7 @@ Screen tf motif within provided regions.
 ### Installation
 
 ```bash
-git clone 
+git clone https://github.com/
 ```
 
 ## Usage
