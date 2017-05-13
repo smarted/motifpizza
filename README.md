@@ -11,10 +11,15 @@ Screen tf motif within provided regions.
 ### Installation
 
 ```bash
-git clone https://github.com/
+git clone git@github.com:zhoujj2013/motifpizza.git
 ```
 
-## Usage
+## Example
+
+
+```bash
+
+```
 
 ## Example
 
