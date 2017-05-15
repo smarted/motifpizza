@@ -18,11 +18,9 @@ git clone git@github.com:zhoujj2013/motifpizza.git
 
 To download database
 
-```bash
-perl dl_database.pl mm9
-```
+You can go to: https://www.dropbox.com/sh/i1dtpoec0mlwfty/AAA531Eb3fPS08srSluhyPvda?dl=0, then download motif set for mouse and human.
 
-Write the configure file for running motifpizza.
+Write the configure file, please refer to the format [here]().
 
 ## Example
 
