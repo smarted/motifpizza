@@ -1,0 +1,8 @@
+#id<tab>path
+MOUSEGENOME	/x400ifs-accel/zhoujj/data/mm9/mm9.genome
+MOUSEGENOMEFA	/x400ifs-accel/zhoujj/data/mm9/fasta/mm9.fa
+HUMANGENOME	/x400ifs-accel/zhoujj/data/hg19/hg19.genome
+HUMANGENOMEFA	/x400ifs-accel/zhoujj/data/hg19/fasta/hg19.fa
+
+BEDTOOLS	/share/apps/bin/bedtools
+FIMO	/x400ifs-accel/zhoujj/software/meme_4.10.0/bin/fimo
